@@ -1,0 +1,42 @@
+.container{
+    border: rgb(104, 59, 155) solid;
+    display: flex;
+    flex-direction: column;
+    height: 600px;
+    width: 500px;
+    margin: auto;
+    border-radius: 10px;
+    background-color: rgb(229, 226, 247);
+    box-shadow: 3px 3px 5px black;
+}
+.memb{
+    border: rgb(141, 2, 255) solid;
+    border-radius: 9px;
+    margin: 10px;
+    height: 200px;
+    padding:60px;
+    color: rgb(71, 7, 131);
+    background-color: rgb(170, 170, 250);
+    
+}
+#meb1{
+    height: 50px;
+}
+#meb2{
+    height: 50px;
+}
+h1{
+    color: slateblue;
+    text-align: center;
+    
+}
+h3{
+    display: inline-block;
+}
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(242, 215, 250);
+}
+#meb3{
+    padding: 2px;
+}
